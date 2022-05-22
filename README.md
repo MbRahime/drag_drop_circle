@@ -4,7 +4,7 @@
  
 $flutter run
 
-# Backend Springboot Server https://github.com/MbRahime/server1
+# Backend Springboot Server https://github.com/MbRahime/server-1
 
 run maven springboot server in terminal
 
